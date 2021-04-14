@@ -1,0 +1,221 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+
+background-color: #1905ec;
+
+border-bottom: 1px solid red;
+}
+.header_content{
+
+width: 90%;
+
+background-color: blue;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+padding: 5px;
+
+/* padding-top: 10px; */
+
+/* padding-bottom: 10px; */
+}
+.logo{
+
+width: 20%;
+float: left;
+}
+.logo img{
+    
+width: 25%;
+}
+nav{
+    width: 30%;
+    float: right;
+    padding-top: 9px;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+}
+nav ul li{
+
+float: left;
+
+margin-right: 35px;
+
+font-size: 16px;
+
+text-transform: capitalize;
+
+color: white;
+}
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+overflow: hidden;
+}
+.content h1{
+
+text-align: center;
+
+font-size: 50px;
+}
+.content p{
+
+margin-top: 30PX;
+
+color: #4c4c4c;
+
+text-size: 50px;
+
+text-align: center;
+
+font-size: 18px;
+}
+.content img{
+    
+width: 80%;
+    
+margin-top: 30px;
+}
+.content h1:first-child{
+    color: #1905ec;
+    MARGIN-TOP: 50PX;
+}
+.main_content{
+
+}
+.left_content{
+
+width: 46%;
+
+text-align: right;
+
+float: left;
+
+text-align: right;
+}
+.left_content p{
+
+text-align: right;
+}
+.left_content h1{
+
+text-align: right;
+
+color: red !important;
+}
+.right_content{
+
+width: 46%;
+
+float: right;
+}
+.right_content h1{
+    text-align: left;
+    color:  black !important;
+    font-size: 40px;
+}
+.service{
+width: 90%;
+margin-left: 10%;
+margin-top: 40px;
+overflow: hidden;
+
+}
+.service1{
+ width: 25%;
+ float: left;
+ text-align: center;
+ height: 400px;
+ background-color: rgb(255, 230, 0);
+ margin-right: 5%;
+}
+.service2{
+width: 25%;
+float: left;
+text-align: center;
+height: 400px;
+background-color: rgb(173, 102, 102);
+}
+.service3{
+    width: 25%;
+    float: left;
+    text-align: center;
+    height: 400px;
+    background-color: rgb(255, 238, 5);
+    margin-left: 5%;
+
+}
+.service1 img{
+    width: 90%;
+    height: 300px;
+    margin-top: 15px;
+}
+.service2 img{
+    width: 90%;
+    height: 300px;
+    margin-top: 15px;
+
+}
+.service3 img{
+    width: 90%;
+    height: 300px;
+    margin-top: 15px;
+
+}
+.service1 h1{
+    text-align: left;
+    margin-left: 15px;
+    font-size: larger;
+
+}
+.service1 p{
+    text-align: left;
+    margin-left: 15px;
+
+}
+.service2 h1{
+    text-align: left;
+    margin-left: 15px;
+    font-size: larger;
+
+}
+.service2 p{
+    text-align: left;
+    margin-left: 15px;
+
+}
+.service3 h1{
+    text-align: left;
+    margin-left: 15px;
+    font-size: larger;
+
+}
+.service3 p{
+    text-align: left;
+    margin-left: 15px;
+
+}
+footer{
+    background-color: blue;
+    margin-top: 40px;
+    height: 50px;
+    overflow: hidden;
+}
+.footer{
+    text-align: center;
+    margin-top: 12px;
+    color: whitesmoke;
+}
